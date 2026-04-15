@@ -1,4 +1,4 @@
-# 👨‍💻 Gabriel-Castro-Ctrl
+# 👨🏾‍💻 Gabriel-Castro-Ctrl
 
 **`Desenvolvedor Jr - python - automação e dados.`**
 
