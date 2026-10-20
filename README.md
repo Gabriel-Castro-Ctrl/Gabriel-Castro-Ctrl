@@ -2,7 +2,8 @@
 
 **`Desenvolvedor Jr - python - automação e dados.`**
 
-<p style="text-align:justify;"> Desenvolvedor Back-End Júnior e Programador Python em formação, com foco em SQL, Banco de Dados e Automação de Processos (RPA). Transformo tarefas repetitivas em soluções automatizadas e dados brutos em informação útil para decisão.
+<p style="text-align:justify;"> 
+        Desenvolvedor Back-End Júnior e Programador Python em formação, com foco em SQL, Banco de Dados e Automação de Processos (RPA). Transformo tarefas repetitivas em soluções automatizadas e dados brutos em informação útil para decisão. <br>
 Graduando em Análise e Desenvolvimento de Sistemas (ADS) na Anhanguera (conclusão em 2027) e Técnico em Informática (Tecnologia da Informação) pela Escola Técnica Divina Providência. Busco minha primeira oportunidade formal em Tecnologia: estágio ou posição júnior.
 🚀 O QUE EU FAÇO NA PRÁTICA
 - Automação web com Python e Selenium: bots que abrem o navegador, fazem login, navegam entre módulos e validam dados de planilhas CSV.
