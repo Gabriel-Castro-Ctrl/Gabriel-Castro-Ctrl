@@ -2,7 +2,28 @@
 
 **`Desenvolvedor Jr - python - automação e dados.`**
 
-<p style="text-align:justify;"> Me chamo Gabriel Ferreira, tenho 19 anos e sou natural de Minas Gerais, Concluí o ensino médio na Cidade dos Meninos, com o curso técnico em Informática. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Anhangueras. Sou entusiasmado por tecnologia e frequentemente busco por mais conhecimento para acrescentar e me desenvolver.
+<p style="text-align:justify;"> Desenvolvedor Back-End Júnior e Programador Python em formação, com foco em SQL, Banco de Dados e Automação de Processos (RPA). Transformo tarefas repetitivas em soluções automatizadas e dados brutos em informação útil para decisão.
+Graduando em Análise e Desenvolvimento de Sistemas (ADS) na Anhanguera (conclusão em 2027) e Técnico em Informática (Tecnologia da Informação) pela Escola Técnica Divina Providência. Busco minha primeira oportunidade formal em Tecnologia: estágio ou posição júnior.
+🚀 O QUE EU FAÇO NA PRÁTICA
+- Automação web com Python e Selenium: bots que abrem o navegador, fazem login, navegam entre módulos e validam dados de planilhas CSV.
+- Pipelines de dados (ETL): leitura, limpeza e consolidação de dados com Python e SQL (SQLite e MySQL).
+- Dashboards em Power BI a partir de consultas SQL.
+- Programação Orientada a Objetos (POO) em Java, com tratamento de exceções e código organizado.
+🛠️ STACK TÉCNICA
+Python • SQL (SELECT, JOIN, GROUP BY) • SQLite • MySQL • Java • Selenium • Web Scraping • Power BI • Excel Avançado • Git e GitHub • HTML, CSS e JavaScript (básico) • Agentes de IA e Engenharia de Prompts
+📂 PROJETOS EM DESTAQUE
+1. Bot de Automação Web e ingestão de dados (Python, Selenium, CSV)
+2. Sistema Financeiro e Pipeline de Dados (Python, SQLite)
+3. Dashboard de Análise de Mercado (SQL, Power BI)
+4. Calculadora modular em Java com POO
+Todos no meu portfólio: https://gabriel-castro-ctrl.github.io/portifolio/
+🎓 DIFERENCIAL
+Como professor de informática, aprendi a explicar conceitos técnicos com clareza e a gerir turmas. Isso me ajuda a documentar código, trabalhar em equipe e comunicar problemas com objetividade.
+🤝 SOFT SKILLS
+Comunicação assertiva • Trabalho em equipe • Proatividade • Resolução de problemas • Persistência no debugging • Aprendizado contínuo
+🎯 VAGAS QUE BUSCO
+Desenvolvedor Back-End Júnior, Programador Python Júnior, Estágio em TI e Desenvolvimento de Software, Analista de Automação de Processos (RPA e Scripting) e Analista de Dados Júnior, em Belo Horizonte, região metropolitana ou remoto.
+📩 Vamos conversar? gtecnico108@gmail.com | (31) 99182-3463
 </P> 
 
 
