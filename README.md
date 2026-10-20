@@ -21,7 +21,7 @@ Python • SQL (SELECT, JOIN, GROUP BY) • SQLite • MySQL • Java • Seleni
 2. Sistema Financeiro e Pipeline de Dados (Python, SQLite) <br>
 3. Dashboard de Análise de Mercado (SQL, Power BI) <br>
 4. Calculadora modular em Java com POO <br>
-Todos no meu portfólio: https://gabriel-castro-ctrl.github.io/portifolio/<br>
+Todos no meu portfólio: https://gabriel-castro-ctrl.github.io/portifolio/
         <br><br>
 🎓 DIFERENCIAL <br>
 Como professor de informática, aprendi a explicar conceitos técnicos com clareza e a gerir turmas. Isso me ajuda a documentar código, trabalhar em equipe e comunicar problemas com objetividade.
