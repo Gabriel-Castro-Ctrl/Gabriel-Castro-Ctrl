@@ -13,20 +13,20 @@
 - Dashboards em Power BI a partir de consultas SQL.<br>
 - Programação Orientada a Objetos (POO) em Java, com tratamento de exceções e código organizado.
         <br><br>
-🛠️ STACK TÉCNICA
+🛠️ STACK TÉCNICA <br>
 Python • SQL (SELECT, JOIN, GROUP BY) • SQLite • MySQL • Java • Selenium • Web Scraping • Power BI • Excel Avançado • Git e GitHub • HTML, CSS e JavaScript (básico) • Agentes de IA e Engenharia de Prompts
         <br><br>
 📂 PROJETOS EM DESTAQUE <br>
 1. Bot de Automação Web e ingestão de dados (Python, Selenium, CSV) <br>
 2. Sistema Financeiro e Pipeline de Dados (Python, SQLite) <br>
 3. Dashboard de Análise de Mercado (SQL, Power BI) <br>
-4. Calculadora modular em Java com POO 
-        <br><br>
+4. Calculadora modular em Java com POO <br>
 Todos no meu portfólio: https://gabriel-castro-ctrl.github.io/portifolio/<br>
-🎓 DIFERENCIAL<br>
+        <br><br>
+🎓 DIFERENCIAL <br>
 Como professor de informática, aprendi a explicar conceitos técnicos com clareza e a gerir turmas. Isso me ajuda a documentar código, trabalhar em equipe e comunicar problemas com objetividade.
         <br><br>
-🤝 SOFT SKILLS<br>
+🤝 SOFT SKILLS <br>
 Comunicação assertiva • Trabalho em equipe • Proatividade • Resolução de problemas • Persistência no debugging • Aprendizado contínuo
         <br><br>
 🎯 VAGAS QUE BUSCO <br>
